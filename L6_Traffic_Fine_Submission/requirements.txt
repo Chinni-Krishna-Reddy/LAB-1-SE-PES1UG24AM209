@@ -1,0 +1,1 @@
+pytest>=8.0\ncoverage>=7.0\n
